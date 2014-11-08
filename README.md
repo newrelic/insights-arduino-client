@@ -1,4 +1,4 @@
-## New Relic Insights Ardunio Library.
+## New Relic Insights Ardunio Library
 
 Use this library to easily post custom events to New Relic Insights.  It should work on all newer Arduino and Intel Edison hardware.
 
