@@ -1,3 +1,5 @@
+[![Archived header](https://github.com/newrelic/open-source-office/raw/master/examples/categories/images/Archived.png)](https://github.com/newrelic/open-source-office/blob/master/examples/categories/index.md#archived)
+
 ## New Relic Insights Arduino Library
 
 Use this library to easily post custom events to New Relic Insights.  It should work on all newer Arduino and Intel Edison hardware.
